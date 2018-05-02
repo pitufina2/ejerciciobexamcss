@@ -1,0 +1,52 @@
+
+header {
+
+    background-color: yellow;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+
+#difuminado {
+    color : red;
+
+}
+
+
+.div {
+    background-color: lightgrey;
+
+}
+
+.button {
+    color:red;
+    text-align:top;
+    font-size: large;
+}
+
+footer{
+    background-color: yellow;
+    font-size: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    border-top: 10 px;
+    border-right: 10px;
+    border-left: 10px;
+}
+ 
+form .butttom {
+    color:red;
+    
+
+
+
+}
+
+
+
+
+
+
